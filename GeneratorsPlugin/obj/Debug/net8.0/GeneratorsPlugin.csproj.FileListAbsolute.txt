@@ -1,0 +1,15 @@
+D:\spp\myfaker\Faker\GeneratorsPlugin\bin\Debug\net8.0\GeneratorsPlugin.deps.json
+D:\spp\myfaker\Faker\GeneratorsPlugin\bin\Debug\net8.0\GeneratorsPlugin.dll
+D:\spp\myfaker\Faker\GeneratorsPlugin\bin\Debug\net8.0\GeneratorsPlugin.pdb
+D:\spp\myfaker\Faker\GeneratorsPlugin\bin\Debug\net8.0\Faker.dll
+D:\spp\myfaker\Faker\GeneratorsPlugin\bin\Debug\net8.0\Faker.pdb
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.csproj.AssemblyReference.cache
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.GeneratedMSBuildEditorConfig.editorconfig
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.AssemblyInfoInputs.cache
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.AssemblyInfo.cs
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.csproj.CoreCompileInputs.cache
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\Generato.3915B6BC.Up2Date
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.dll
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\refint\GeneratorsPlugin.dll
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\GeneratorsPlugin.pdb
+D:\spp\myfaker\Faker\GeneratorsPlugin\obj\Debug\net8.0\ref\GeneratorsPlugin.dll

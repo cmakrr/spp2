@@ -1,0 +1,11 @@
+D:\spp\myfaker\Faker\Faker\bin\Debug\net8.0\Faker.deps.json
+D:\spp\myfaker\Faker\Faker\bin\Debug\net8.0\Faker.dll
+D:\spp\myfaker\Faker\Faker\bin\Debug\net8.0\Faker.pdb
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.GeneratedMSBuildEditorConfig.editorconfig
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.AssemblyInfoInputs.cache
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.AssemblyInfo.cs
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.csproj.CoreCompileInputs.cache
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.dll
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\refint\Faker.dll
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\Faker.pdb
+D:\spp\myfaker\Faker\Faker\obj\Debug\net8.0\ref\Faker.dll
